@@ -1,2 +1,2 @@
 # testrepoIBM
-Sample repo for IBM course Getting Started with Git and GitHub
+This is a sample repo for the IBM course Getting Started with Git and GitHub.
